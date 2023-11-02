@@ -21,11 +21,11 @@ The dashboard uses data from the [2022 Inclusive Internet Index](https://impact.
 ### Part One: Exploring the Countries with High & Low Indices.
 In 2022, countries from Asia, Europe, and the US highlight the top 10 countries based on their inclusive internet index, with Singapore being the highest ranked that year. This information is presented using a combination of a bubble and bar chart in the dashboard. Above the top 10 countries chart, there is also a filter, which users can use to navigate between the overall score (Inclusive Internet Index) to scores focusing more on either of these 4 categories: Availability, Affordability, Relevance and Readiness.
 
-![Highest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/highest0.png)
+![Highest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/highest10.png)
 
 Meanwhile, countries from Africa dominate the list of countries with the lowest inclusive internet index.
 
-![Lowest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/lowest10.png)
+![Lowest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/lowest10-0.png)
 
 Below the top 10 and lowest 10 countries charts, there is a graph made of boxes, representing the growth/drop in the scores for each country, from the previous year. Just like to bubble & bar chart, these boxes are also controlled by the score category filter mentioned before.
 
