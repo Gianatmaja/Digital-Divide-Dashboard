@@ -16,7 +16,7 @@ For more information regarding the Inclusive Internet Index, visit the [official
 ### Dataset
 The dashboard uses data from the [2022 Inclusive Internet Index](https://impact.economist.com/projects/inclusive-internet-index/2022).
 
-## The Dashboard
+## Exploring The Dashboard
 
 ### Part One: Exploring the Countries with High & Low Indices.
 In 2022, countries from Asia, Europe, and the US highlight the top 10 countries based on their inclusive internet index, with Singapore being the highest ranked that year. This information is presented using a combination of a bubble and bar chart in the dashboard. Above the top 10 countries chart, there is also a filter, which users can use to navigate between the overall score (Inclusive Internet Index) to scores focusing more on either of these 4 categories: Availability, Affordability, Relevance and Readiness.
@@ -29,4 +29,12 @@ Meanwhile, countries from Africa dominate the list of countries with the lowest 
 
 Below the top 10 and lowest 10 countries charts, there is a graph made of boxes, representing the growth/drop in the scores for each country, from the previous year. Just like to bubble & bar chart, these boxes are also controlled by the score category filter mentioned before.
 
-## Exploring the Dashboard
+### Part Two: Countries with High & Low Internet Access
+In the top right corner of the dashboard, users can observe the countries with high and low internet access, based on the percentage of their population using internet.
+
+### Part Three: Contributors to the Inclusive Internet Index
+A country's inclusive internet index is assessed on 4 facets: Availability, Affordability, Relevance, and Readiness. Some of the most contributing factors are highligted on this chart in the dashboard.
+
+### Part Four: Events Associated with High/ Low Inclusive Internet Index
+A high inclusive internet index is associated with a higher level of literacy and GNI per capita, thus further shedding light on its importance.
+
