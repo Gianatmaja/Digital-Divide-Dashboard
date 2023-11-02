@@ -11,7 +11,11 @@ In a world where digital inclusion increasingly shapes social and economic lands
 ### About the Inclusive Internet Index
 The inclusive Internet Index, an initiative by The Economist Intelligence Unit (EIU) and commissioned by Meta, seeks to measure the extent to which the Internet is not only accessible and affordable, but also relevant to all, allowing usage that enables positive social and economic outcomes at the individual and group level.
 
-For more information regarding the Inclusive Internet Index, visit the [official Economist Impact page on the index](https://impact.economist.com/projects/inclusive-internet-index/about).
+For more information regarding the Inclusive Internet Index, visit the [official Economist Impact webpage on the index](https://impact.economist.com/projects/inclusive-internet-index/about).
 
 ### Dataset
 The dashboard uses data from the [2022 Inclusive Internet Index](https://impact.economist.com/projects/inclusive-internet-index/2022).
+
+## The Dashboard
+
+## Exploring the Dashboard
