@@ -32,9 +32,15 @@ Below the top 10 and lowest 10 countries charts, there is a graph made of boxes,
 ### Part Two: Countries with High & Low Internet Access
 In the top right corner of the dashboard, users can observe the countries with high and low internet access, based on the percentage of their population using internet.
 
+![Lowest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/clusters.png)
+
 ### Part Three: Contributors to the Inclusive Internet Index
 A country's inclusive internet index is assessed on 4 facets: Availability, Affordability, Relevance, and Readiness. Some of the most contributing factors are highligted on this chart in the dashboard.
 
+![Lowest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/factors.png)
+
 ### Part Four: Events Associated with High/ Low Inclusive Internet Index
 A high inclusive internet index is associated with a higher level of literacy and GNI per capita, thus further shedding light on its importance.
+
+![Lowest 10](https://github.com/Gianatmaja/Digital-Divide-Dashboard/blob/main/images/events.png)
 
